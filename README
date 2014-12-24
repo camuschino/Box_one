@@ -1,3 +1,16 @@
-HHOLA como estas?
+videoguias para este tuto:
+https://www.youtube.com/watch?v=xh32DIHApZA
 
-Esto es una prueba.
+1.instalar git -> suo apt-get install git
+2.configurar user.name -> git config --global user.name "Nombre_entre_comillas"
+3.configurar user.email -> git config --global user.email "Email_entre_comillas"
+4.Crear carpeta con el mismo nombre del repositorio a conectar 
+  (preferentemenrte en la carpeta Home de linux, o C:/repositories de windows)
+5.Dentro de la carpeta creada se usa el comando git init
+
+6. se agrega el repositorio remeto en que se realizaran las operaciones
+  mediante el siguiente comando y usando el link hacia el repositorio añadiendo ".git" al final
+  -> git remote add origin "link_al_repositorio".git .Exm: git remote add https://github.com/camuschino/Pruebas.git
+
+Listo, ya esta preparado el entorno para poder recuperar proyectos hacia el pc de uso, asi como operaciones
+tipo merge, push, pull, etc...  sobre los commits.
