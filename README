@@ -13,4 +13,4 @@ https://www.youtube.com/watch?v=xh32DIHApZA
   -> git remote add origin "link_al_repositorio".git .Exm: git remote add https://github.com/camuschino/Pruebas.git
 
 Listo, ya esta preparado el entorno para poder recuperar proyectos hacia el pc de uso, asi como operaciones
-tipo merge, push, pull, etc...  sobre los commits.
+tipo merge, push, pull, etc. sobre los commits.
