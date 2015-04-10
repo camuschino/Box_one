@@ -1,7 +1,7 @@
 videoguias para este tuto:
 https://www.youtube.com/watch?v=xh32DIHApZA
 
-1.instalar git -> suo apt-get install git
+1.instalar git -> sudo apt-get install git
 2.configurar user.name -> git config --global user.name "Nombre_entre_comillas"
 3.configurar user.email -> git config --global user.email "Email_entre_comillas"
 4.Crear carpeta con el mismo nombre del repositorio a conectar 
